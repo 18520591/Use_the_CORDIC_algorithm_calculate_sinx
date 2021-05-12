@@ -2,6 +2,7 @@
 * CORDIC algorithm:
 ![image](https://user-images.githubusercontent.com/67142437/117984342-f8111200-b361-11eb-91d7-8a99fb9b3ed3.png)
 * Datapath:
+
 ![image](https://user-images.githubusercontent.com/67142437/117990377-5260a180-b367-11eb-828a-82e61dbc6e50.png)
 * Number processing block: Perform conversion of the input value from 0 to 90.
 ![image](https://user-images.githubusercontent.com/67142437/117985651-19bec900-b363-11eb-81bc-d1995bed27d5.png)
